@@ -2,7 +2,7 @@
 function Navbar() {
   return (
     <nav className="navbar">
-      <h1>Mi Sitio</h1>
+      <h1>Mi Sitio web</h1>
       <ul>
         <li><a href="#1">Inicio</a></li>
         <li><a href="#2">Servicios</a></li>
