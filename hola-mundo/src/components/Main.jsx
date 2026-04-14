@@ -4,7 +4,7 @@ function Main() {
     <main className="main">
       <h2 id="#1">Contenido Principal</h2>
       <p>Bienvenido a mi aplicación React</p>
-      <img src="https://www.pinatafarm.com/memegenerator/5944c9dd-6a4a-465d-9e6b-ad7145209d4f" alt="Img1" />
+      <img src="https://images7.memedroid.com/images/UPLOADED929/60e45c870f5ed.jpeg" alt="fino" title="finoS"/>
     </main>
   );
 }

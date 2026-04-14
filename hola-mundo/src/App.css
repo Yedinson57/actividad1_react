@@ -45,6 +45,11 @@ body{
   padding: 20px;
 }
 
+img{
+  width: 150px;
+  height: auto;
+}
+
 .section {
   background: #ddd;
   padding: 20px;
